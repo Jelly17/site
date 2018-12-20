@@ -1,0 +1,25 @@
+---
+title: Travel Guide Web Site
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: jess.sarbu@gmail.com
+description: |2-
+
+  This website is supposed to help people decide where to go  (for vacation or even just 2 days). Don't give up on searching  the best place&opportunity. ;)
+  Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+
+  Tour Guides are responsible for helping people to visit unfamiliar  areas. They usually make special trips with groups of tourists  in order to show them important places of cities. Their work is  ery useful for visitors who are for the first time in some areas,  because these professionals are very knowledgeable and provide  aluable information to people. They may work in travel agencies or museums.
+baseurl: 
+url: 
+twitter_username: jessicasarbu
+github_username: Jelly17
+markdown: kramdown
+theme: minima
+plugins:
+- jekyll-feed
